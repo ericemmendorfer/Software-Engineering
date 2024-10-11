@@ -8,7 +8,12 @@ An intense hands-on study of practical techniques and methods of software engine
 </details>
 
 ## Project 1: Specification
+[Specification](https://github.com/software-students-spring2024/1-specification-exercise-team-temp-name)
 ## Project 2: Web App
+[Web App](https://github.com/software-students-spring2024/2-web-app-exercise-wae_team)
 ## Project 3: Python Package
+[Python Package](https://github.com/software-students-spring2024/3-python-package-exercise-ppe)
 ## Project 4: Containers
+[Container Web App](https://github.com/software-students-spring2024/4-containerized-app-exercise-cae)
 ## Project 5: Final
+[Final](https://github.com/software-students-spring2024/5-final-project-spring-2024-se-final)
